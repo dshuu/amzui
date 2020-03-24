@@ -1,24 +1,33 @@
-# amz-ui
+#amz-ui
+
+
 
 ## Project setup
+
 ```
+
 yarn install
+
 ```
+
+
 
 ### Compiles and hot-reloads for development
+
 ```
+
 yarn serve
+
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 待完成
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+- [x] Button
+
+- [ ] Modal
+
+- [ ] Swiper
+
+

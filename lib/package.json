@@ -1,0 +1,8 @@
+{
+  "name": "amzui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "amz-ui.umd.js",
+  "author": "dshu",
+  "license": "MIT"
+}
