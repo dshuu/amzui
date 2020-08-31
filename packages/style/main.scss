@@ -1,0 +1,19 @@
+$mainBg: #4c4c4c;
+
+.flex {
+  &-box {
+    display: flex;
+  }
+  &-fdc {
+    flex-direction: column;
+  }
+  &-aic {
+    align-items: center;
+  }
+  &-jcsb {
+    justify-content: space-between;
+  }
+  &-jcc {
+    justify-content: center;
+  }
+}
